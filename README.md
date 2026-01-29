@@ -1,5 +1,5 @@
 [中文版本](./README_zh-CN.md)
-
+20260129
 # Cloudflare WAF Auto Update Tool
 
 This tool automatically fetches a list of malicious ASNs from AbuseIPDB and updates your Cloudflare WAF rules to protect your website from malicious traffic while allowing legitimate security scanners and monitoring services.
